@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Exemplo de Lista Ordenada</title>
+</head>
+<body>
+    <h2>Formaçao academica</h2>
+    <ol>
+        <li>Técnico em Logística</li>
+        <li>Técnico em Administração</li>
+        <li>Cursando programaçao</li>
+    </ol>
+     <h2>Experiência Profissional:</h2>
+    <ol>
+        <li>Organização de eventos</li>
+        <li>Voluntariado</li>
+        <li>Intercâmbio</li>
+    </ol>
+     <h2>Soft-Skills:</h2>
+    <ol>
+        <li>Comunicação</li>
+        <li>Liderança</li>
+        <li>Flexibilidade</li>
+        <li>resiliência</li>
+        <li>Saber trabalhar em equipe</li>
+        <li>Proatividade</li>
+        <li>Empatia</li>
+      
+      </ol>
+     <h2>Cursos e Aprimoramentos:</h2>
+    <ol>
+        <li>Comunicação</li>
+        <li>Gestão do tempo</li>
+        <li>Idiomas(Ingles)</li>
+</body>
+</html>
