@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculo</title>
+</head>
+<body>
+    <h1>Nome Completo:</h1><h3><u>Walter Alexandre de Abreu Soares</u></h3>
+    <h1>Sobre mim:</h1> <h3><u>sou uma pessoa bastante proativa e com um otimo humor, busco progredir na aréa que irei trabalhar e focar nos objetivos dentro da empresa</u></h3>
+    <h1>Formaçao academica:</h1> <h3><u>Técnico em Logística, Técnico em Administração e atualmente curso programaçao.</u></h3>
+    <h1>Experiência Profissional:</h1> <h3><u>Bom trabalhei bastante em diversas empresas e as Experiências 
+        variam do local que voce trabalha algums podem ser algo mais dificil outras nem tanto.</u></h3>
+    <h1>Soft-Skills:</h1> <h3><u>
+        Comunicação. <br>
+        Liderança. <br>
+        Flexibilidade e resiliência. <br>
+        Saber trabalhar em equipe. <br>
+        Proatividade. <br>
+        Empatia. <br>
+</u>
+    <h1>Cursos e Aprimoramentos:</h1>  <h3><u>Comunicação, Gestão do tempo e Idiomas(Ingles)</u></h3>
+
+
+</body>
+</html>
