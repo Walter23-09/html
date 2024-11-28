@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabela de Produtos</title>
+</head>
+<body>
+    <h1>Tabela de Produtos</h1>
+    <table border="2">
+        <thead>
+            <tr>
+                <th>Produto</th>
+                <th>Preço (R$)</th>
+                <th>Quantidade</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Banana</td>
+                <td>4,89</td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td>Maçã</td>
+                <td>14,99</td>
+                <td>7</td>
+            </tr>
+            <tr>
+                <td>Mamão</td>
+                <td>3,79</td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td>Limão</td>
+                <td>4,89</td>
+                <td>8</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
