@@ -1,0 +1,22 @@
+    <!DOCTYPE html>
+    <html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Pratique e Aprenda</title>
+    </head>
+    <body>
+        <h1>Nome Completo:</h1>
+        <h3>Walter Alexandre de Abreu Soares<h3>
+    
+        <h1>Quem é Você:</h1>
+        <h3>Sou uma pessoa comum que estuda, come, dorme e bebe</h3>
+        <h1>Onde Vive:</h1>
+        <h3>Vivo no conjunto ceara fortaleza Brasil</h3>
+    <p></p>
+        <h1>Seu Alimento Favorito:</h1>
+        <h3>Lasanha entre outros.</h3>
+    </body>
+    </html>
+    
+</html>
