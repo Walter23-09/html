@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo de Página</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4e7389;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            background-color: #f4f4f4;
+            margin: 20px;
+        }
+        aside {
+            background-color: #e2e2e2;
+            padding: 15px;
+            margin: 20px;
+            width: 25%;
+            float: left;
+        }
+        footer {
+            background-color: #0a232b;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        .content {
+            float: left;
+            width: 70%;
+            padding: 15px;
+        }
+        .btn {
+            background-color: #a2dbb5;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .btn:hover {
+            background-color: #a2dbb5;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Bem-vindo à Página de Exemplo</h1>
+    </header>
+
+    <section>
+        <div class="content">
+            <h2>Conteúdo Principal</h2>
+            <p>Este é o conteúdo principal da página. Aqui você pode adicionar textos, imagens e outros elementos.</p>
+            <button class="btn">Clique aqui</button>
+            <p><a href="#" class="btn">Link Externo</a></p>
+        </div>
+
+        <aside>
+            <h3>Barra Lateral</h3>
+            <p>Informações adicionais podem ser colocadas aqui, como links relacionados, notícias ou anúncios.</p>
+        </aside>
+    </section>
+
+    <footer>
+        <p>© 2024 Exemplo de Página. Todos os direitos reservados.</p>
+    </footer>
+
+</body>
+</html>
